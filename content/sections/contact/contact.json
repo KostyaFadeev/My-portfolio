@@ -1,0 +1,13 @@
+{
+  "name": "My Telegram: https://t.me/kostya_fadeev",
+  "email": "",
+  "description": "This is also one of my projects. I will be glad to do something like this for you.",
+  "image": {
+    "src": "../../images/qr.png",
+    "alt": "QR"
+  },
+  "socialProfiles": {
+    "from": ["Github", "Mail"],
+    "showIcons": true
+  }
+}

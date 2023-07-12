@@ -1,0 +1,43 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "🗓 FANCY AND SIMPLE",
+      "title": "Calorie counter",
+      "description": "The application allows you to calculate an individual daily calorie plan. The interface consists of a form with input fields and a block for the result.",
+      "image": {
+        "src": "../../images/calories.png",
+        "alt": "Calorie counter",
+        "linkTo": "https://github.com/KostyaFadeev/calorie_counter"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/KostyaFadeev/calorie_counter"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "📱 MULTIFUNCTIONAL AND COLORFUL",
+      "title": "Keksogram",
+      "description": "Keksogram is an image browsing web service. Users can upload their own photos or view photos uploaded earlier by other users.",
+      "image": {
+        "src": "../../images/kekstagram.png",
+        "alt": "Keksogram",
+        "linkTo": "https://github.com/KostyaFadeev/2243305-kekstagram-2"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/KostyaFadeev/2243305-kekstagram-2"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit on Github",
+    "url": "https://github.com/KostyaFadeev"
+  }
+}

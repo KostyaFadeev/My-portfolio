@@ -1,0 +1,93 @@
+{
+  "interests": [
+    {
+      "label": "React",
+      "image": {
+        "src": "../../images/react.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "JavaScript",
+      "image": {
+        "src": "../../images/js.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "React Native",
+      "image": {
+        "src": "../../images/react.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "MobX",
+      "image": {
+        "src": "../../images/MobX.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "HTML5",
+      "image": {
+        "src": "../../images/html5.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "SASS",
+      "image": {
+        "src": "../../images/sass.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "TypeScript",
+      "image": {
+        "src": "../../images/type-script.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "GitHub",
+      "image": {
+        "src": "../../images/github.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Gatsby",
+      "image": {
+        "src": "../../images/gatsby.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Figma",
+      "image": {
+        "src": "../../images/figma.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Adobe Indesign",
+      "image": {
+        "src": "../../images/ai.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "WebStorm",
+      "image": {
+        "src": "../../images/ws.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+}

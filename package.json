@@ -1,0 +1,43 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Information about me",
+  "scripts": {
+    "clean": "gatsby clean",
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "gatsby": "^5.0.1",
+    "gatsby-theme-portfolio-minimal": "latest",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "author": "Konstantin Fadeev <kostya.fad1@gmail.com>",
+  "license": "",
+  "starter-name": "portfolio",
+  "homepage": "https://github.com/KostyaFadeev",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [
+    "react",
+    "gatsby",
+    "gatsby-theme",
+    "PWA",
+    "portfolio",
+    "showcase",
+    "minimal",
+    "animations",
+    "dark-mode",
+    "gdpr-compliant"
+  ]
+}
