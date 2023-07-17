@@ -33,6 +33,23 @@
           "url": "https://github.com/KostyaFadeev/2243305-kekstagram-2"
         }
       ]
+    },
+    {
+      "visible": true,
+      "category": "🎮 USEFUL AND EASY",
+      "title": "Game memory",
+      "description": "Mini game on react for memory training.",
+      "image": {
+        "src": "../../images/game.png",
+        "alt": "Calorie counter",
+        "linkTo": "https://github.com/KostyaFadeev/Memory-game/tree/main/game-memory"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/KostyaFadeev/Memory-game/tree/main/game-memory"
+        }
+      ]
     }
   ],
   "button": {
