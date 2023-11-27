@@ -2,6 +2,23 @@
   "projects": [
     {
       "visible": true,
+      "category": "📦 DELIVERY",
+      "title": "Boundary",
+      "description": "My web service for the delivery of branded goods from abroad, created on NextJS and Tailwind.",
+      "image": {
+        "src": "../../images/Boundary.png",
+        "alt": "Boundary",
+        "linkTo": "https://boundary.vercel.app/"
+      },
+      "links": [
+        {
+          "type": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "🗓 FANCY AND SIMPLE",
       "title": "Calorie counter",
       "description": "The application allows you to calculate an individual daily calorie plan. The interface consists of a form with input fields and a block for the result.",
